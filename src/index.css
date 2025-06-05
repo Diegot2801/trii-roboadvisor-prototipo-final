@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fuentes personalizadas (tendrías que cargarlas, por ejemplo, desde Google Fonts o un servidor propio) */
+/* Por ahora, usaremos fuentes genéricas si no se cargan las específicas */
+/* @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap'); */
+/* Si tienes la fuente Formula Condensed, necesitarías una forma de importarla */
+
+body {
+  font-family: 'DM Sans', sans-serif; /* Fuente secundaria de Trii */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Formula Condensed', sans-serif; /* Fuente primaria de Trii */
+}

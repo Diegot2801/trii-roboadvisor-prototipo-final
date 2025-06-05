@@ -1,0 +1,21 @@
+# dependencies
+/node_modules # Ignora la carpeta node_modules completa
+
+# testing
+/coverage # Ignora los reportes de cobertura de tests
+
+# production
+/build      # Ignora la carpeta 'build' que se genera al compilar la app para producción
+
+# misc
+.DS_Store # Archivos de sistema de macOS
+.env.local # Variables de entorno locales
+.env.development.local # Variables de entorno para desarrollo
+.env.test.local # Variables de entorno para tests
+.env.production.local # Variables de entorno para producción
+.idea/ # Carpetas de configuración de IDEs como IntelliJ/WebStorm
+.vscode/ # Carpetas de configuración de VS Code
+*.log # Cualquier archivo con extensión .log
+npm-debug.log* # Logs de depuración de npm
+yarn-debug.log* # Logs de depuración de Yarn
+yarn-error.log* # Logs de errores de Yarn
