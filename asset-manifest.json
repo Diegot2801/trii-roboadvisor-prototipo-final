@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trii-roboadvisor-prototipo-final/static/css/main.9fc7fe53.css",
+    "main.js": "/trii-roboadvisor-prototipo-final/static/js/main.0f0c076e.js",
+    "index.html": "/trii-roboadvisor-prototipo-final/index.html",
+    "main.9fc7fe53.css.map": "/trii-roboadvisor-prototipo-final/static/css/main.9fc7fe53.css.map",
+    "main.0f0c076e.js.map": "/trii-roboadvisor-prototipo-final/static/js/main.0f0c076e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fc7fe53.css",
+    "static/js/main.0f0c076e.js"
+  ]
+}
